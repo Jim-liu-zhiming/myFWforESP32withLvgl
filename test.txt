@@ -5,4 +5,4 @@ This would be very nice!
 v0.5
 
 I don't know what's wrong with this APP
-v0.6
+v0.6g
